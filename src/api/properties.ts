@@ -1,6 +1,5 @@
 import api from "./client";
 
-// Type Definitions
 export interface PropertySummary {
   id: string | number;
   name: string;
